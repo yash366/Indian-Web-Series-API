@@ -1722,7 +1722,22 @@
     "episodeCount": "15",
     "seasons": 3,
     "releaseDate": "2018"
-
+   },
+  {
+    "id": 95,
+    "name": "The Family Man",
+    "rating": 9.0,
+    "description": "The Family Man is an Indian spy thriller streaming television series.",
+    "category": ["Action, Thriller"],
+    "platform": " Amazon Prime Video",
+    "casting": {
+        "actors": ["Manoj Bajpayee, Priyamani, Sharib Hashmi"],
+        "director": ["	Raj & D.K."]
+    },
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Family_Man.jpeg",
+    "episodeCount": "19",
+    "seasons": 2,
+    "releaseDate": "2019"
   },
   {
     "id": 95,
@@ -1740,9 +1755,6 @@
     "seasons": 1,
     "releaseDate": "16/06/2022"
 },
-
-
-
  {
     "id": 96,
     "name": "wedding season",
@@ -1758,8 +1770,6 @@
     "seasons": 1,
     "releaseDate": "2022"
   },
-
-
    {
         "id": 97,
         "name": "Kota Factory",
@@ -1784,9 +1794,6 @@
         "seasons": 2,
         "releaseDate": "16-04-2019"
   },
- 
- 
- 
    {
         "id": 98,
         "name": "The Family Man",
@@ -1810,9 +1817,6 @@
         "episodeCount": 19,
         "seasons": 2,
         "releaseDate": "20-09-2019"
-    },
-
-
     },
    {
         "id": 98,
@@ -1863,7 +1867,6 @@
         "releaseDate": "28-07-2019"
 
     },
-
  {
         "id": 98,
         "name": "TVF Tripling",
@@ -1888,8 +1891,7 @@
                 "S1" : "7 September 2016",
                 "S2" : "5 April 2019"
         }
-    }
-
+    },
 {
         "id": 98,
         "name": "The Whistleblower",
@@ -1914,7 +1916,4 @@
                 "S1" : "16 december 2021",
         }
     }
-
-
-
 ] 
