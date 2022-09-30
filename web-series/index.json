@@ -1706,8 +1706,62 @@
         "episodeCount": 86,
         "seasons": 2,
         "releaseDate": "2018"
+   }
+   {
+        "id": 94,
+        "name": "Sherlock",
+        "rating": 9.1,
+        "description": "Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes, an eccentric individual with a knack for solving crimes. Together, they take on the most unusual cases.",
+        "category": ["Mystery, Drama, Thriller, Comedy, Crime film, Adventure, Comedy drama, Action fiction, Crime TV genre"],
+        "platform": "Amazon Prime Vedio",
+        "casting": {
+            "actors": ["Benedict Cumberbatch,Martin Freeman,Rupert Graves,Una Stubbs"],
+            "director": ["Paul McGuigan"]
+        },
+        "poster":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1475582%2F&psig=AOvVaw1bdyumciJ2J1sTVFp9yzt2&ust=1664641713161000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDdyOH3vPoCFQAAAAAdAAAAABAE"
+        "episodeCount": 12,
+        "seasons": 4,
+        "releaseDate": "2010"
    },
- 
+   {
+        "id": 94,
+        "name": "ImMATURE S2",
+        "rating": 8.8,
+        "description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever.",
+        "category": ["Comedy", "Romance", "Drama"],
+        "platform": "MX Player",
+        "casting": {
+            "actors": [
+                "Rashmi Agdekar",
+                "Omkar Kulkarni",
+                "Visshesh Tiwari",
+                "Dilip Merala",
+                "Gopal Datt",
+                "Chinamay Chandraunshush"
+            ],
+            "director": ["Prem Mistry"]
+        },
+        "poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
+        "episodeCount": 5,
+        "seasons": 2,
+        "releaseDate": "31 August 2022"
+    },
+   {
+        "id": 94,
+        "name": "Jamtara - Sabka Number Ayega",
+        "rating": 7.3,
+        "description": "Cousins, Sunny and Rocky, along with their school dropout friends, run a wildly successful phishing scam from the remote village of Jamtara in Jharkhand. Things go awry when the scam gets ousted in a news report",
+        "category": ["Corruptio, Crimedrama"],
+        "platform": "Netflix",
+        "casting": {
+            "actors": ["Monika Panwar, Aksha Pardasany, Sparsh Shrivastav, Amit Sial, Anshumaan Pushkar, Aasif Khan"],
+            "director": ["Soumendra Padhi"]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Jamtara_Sabka_Number_Ayega.jpg/250px-Jamtara_Sabka_Number_Ayega.jpg"
+        "episodeCount": 18,
+        "seasons": 2,
+        "releaseDate": "2020"
+   },
  {
         "id": 94,
         "name": "Never Have I Ever",
@@ -1732,7 +1786,6 @@
         "seasons": 3,
         "releaseDate": "August 12, 2022"
    },
- 
  {    
         "id": 94,
 
@@ -1763,9 +1816,7 @@
             "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDKKwx-bZ6WvC1Q87RcflET6t7zPZ8rLg8U4PZT8erlwtWlXd",
             "episodeCount": 10,
              "seasons": 1,
-           "releaseDate": "2022"
-    
-            
+           "releaseDate": "2022"    
    },
  {
     "id": 94,
@@ -1923,8 +1974,6 @@
 "episodeCount": 9,
     "seasons": 1,
     "releaseDate": "20 November 2017"
-
-
     },
  {
         "id": 101,
@@ -1948,5 +1997,5 @@
         "episodeCount": 30,
         "seasons": 3,
         "releaseDate": "15 October 2020"
-    },
+    }
 ]
