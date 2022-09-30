@@ -1723,6 +1723,23 @@
     "episodeCount": "15",
     "seasons": 3,
     "releaseDate": "2018"
-}
+   },
+  {
+    "id": 95,
+
+    "name": "The Family Man",
+    "rating": 9.0,
+    "description": "The Family Man is an Indian spy thriller streaming television series.",
+    "category": ["Action, Thriller"],
+    "platform": " Amazon Prime Video",
+    "casting": {
+        "actors": ["Manoj Bajpayee, Priyamani, Sharib Hashmi"],
+        "director": ["	Raj & D.K."]
+    },
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Family_Man.jpeg",
+    "episodeCount": "19",
+    "seasons": 2,
+    "releaseDate": "2019"
+   }
         
 ]
