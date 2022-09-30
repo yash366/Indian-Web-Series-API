@@ -1709,6 +1709,29 @@
    },
    {
         "id": 94,
+        "name": "ImMATURE S2",
+        "rating": 8.8,
+        "description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever.",
+        "category": ["Comedy", "Romance", "Drama"],
+        "platform": "MX Player",
+        "casting": {
+            "actors": [
+                "Rashmi Agdekar",
+                "Omkar Kulkarni",
+                "Visshesh Tiwari",
+                "Dilip Merala",
+                "Gopal Datt",
+                "Chinamay Chandraunshush"
+            ],
+            "director": ["Prem Mistry"]
+        },
+        "poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
+        "episodeCount": 5,
+        "seasons": 2,
+        "releaseDate": "31 August 2022"
+    },
+   {
+        "id": 94,
         "name": "Jamtara - Sabka Number Ayega",
         "rating": 7.3,
         "description": "Cousins, Sunny and Rocky, along with their school dropout friends, run a wildly successful phishing scam from the remote village of Jamtara in Jharkhand. Things go awry when the scam gets ousted in a news report",
@@ -1777,9 +1800,7 @@
             "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDKKwx-bZ6WvC1Q87RcflET6t7zPZ8rLg8U4PZT8erlwtWlXd",
             "episodeCount": 10,
              "seasons": 1,
-           "releaseDate": "2022"
-    
-            
+           "releaseDate": "2022"    
    },
  {
     "id": 94,
