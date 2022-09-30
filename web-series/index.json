@@ -1740,5 +1740,21 @@
         "seasons": 2,
         "releaseDate": "2022"
    }
+  {
+        "id": 99,
+
+        "name": "special ops 1.5",
+        "rating":8.3 ,
+        "description": "After the 2001 Parliament attack, a young and idealistic R&AW officer had a theory. In 2003, he had a mystery. This is the story of Himmat Singh."
+        "platform": "HOTSTAR",
+        "casting": {
+            "actors": ["Kay Kay Menon,Vinay Pathak and Aftab Shivdasani"],
+            "director": ["Neeraj Pandey"]
+        },
+        "poster": "https://www.imdb.com/title/tt13899566/mediaviewer/rm1033759233/?ref_=tt_ov_i",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": "2021"
+   }
         
 ]
