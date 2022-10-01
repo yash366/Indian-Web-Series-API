@@ -1996,5 +1996,27 @@
     "episodeCount": 30,
     "seasons": 3,
     "releaseDate": "15 October 2020"
+},
+ {
+    "id": 102,
+    "name": "Broken But Beautiful",
+    "rating": 8.6,
+    "description": "The series revolves around love, heartbreaks and never ending romance between two individuals.",
+    "category": ["Drama", "Romance"],
+    "platform": ["MX Player","ALT Balaji"],
+    "casting": {
+        "actors": [
+            "Vikrant Massey",
+            "Harleen Sethi",
+            "Sidharth Shukla",
+            "Sonia Rathee"
+        ],
+        "director": ["Santosh Singh", "Harsh Dedhia", "Priyanka Ghose"]
+    },
+    "poster": "https://www.imdb.com/title/tt8317568/?ref_=nv_sr_srsg_0",
+    "episodeCount": 31,
+    "seasons": 3,
+    "releaseDate": "27 November 2018"
 }
+
 ]
