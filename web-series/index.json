@@ -1996,5 +1996,27 @@
     "episodeCount": 30,
     "seasons": 3,
     "releaseDate": "15 October 2020"
+},
+{
+    "id": 206,
+    "name": "What the Folks",
+    "rating": 8.3,
+    "description": "'What The Folks' is a journey of how modern families are breaking stereotypes, overcoming generation gaps, and growing to love one another, despite having starkly different world views..",
+    "category": [ "Drama", "Comedy"],
+    "platform": "MX Player",
+    "casting": {
+        "actors": [
+            "Eisha Chopra",
+            "Veer Rajwant Singh",
+            "Deepika Amin",
+            "Shishir Sharma",
+            "Vipin Sharma"
+        ],
+        "director": ["Omar Iyer Pranjal Dua"]
+    },
+    "poster": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1505558582%2Fbde60cys2irsajdmzunv.jpg",
+    "episodeCount":22,
+    "seasons": 3,
+    "releaseDate": "5 October 2019"
 }
 ]
