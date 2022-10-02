@@ -2002,6 +2002,29 @@
     "releaseDate": {
       "S1": "4 March 2022"
     }
-  }
+  },
+  
+  
+  {
+    "id": 103,
+    "name": "November Story",
+    "rating": 7.7,
+    "description": "A writer with Alzheimer's finds himself at a crime scene with no memory of the events.",
+    "category": ["Thriller"],
+    "platform": "Disney+Hotstar",
+    "casting": {
+      "actors": [
+        "Tamannah",
+        "Namita Krishnamurthy",
+        "G.M Kumar",
+        "Pasupathy"
+      ],
+      "director": ["Indhra Subramanian"]
+    },
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/November_Story_Poster.png",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "20 May 2021"
+  },
 
 ]
