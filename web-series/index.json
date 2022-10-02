@@ -1999,6 +1999,28 @@
 },
  {
     "id": 102,
+
+    "name": "Broken But Beautiful",
+    "rating": 8.6,
+    "description": "The series revolves around love, heartbreaks and never ending romance between two individuals.",
+    "category": ["Drama", "Romance"],
+    "platform": ["MX Player","ALT Balaji"],
+    "casting": {
+        "actors": [
+            "Vikrant Massey",
+            "Harleen Sethi",
+            "Sidharth Shukla",
+            "Sonia Rathee"
+        ],
+        "director": ["Santosh Singh", "Harsh Dedhia", "Priyanka Ghose"]
+    },
+    "poster": "https://www.imdb.com/title/tt8317568/?ref_=nv_sr_srsg_0",
+    "episodeCount": 31,
+    "seasons": 3,
+    "releaseDate": "27 November 2018"
+}
+{
+	"id": 105,
     "name": "Bard of blood",
     "rating": 6.8,
     "description": "Excommunicated RAW agent Kabir Anand, a courageous analyst and a sleeper agent take on a covert mission in Balochistan when four Indian spies are captured; the mission soon turns south and Kabir must face his demons from the past.",
