@@ -1902,7 +1902,35 @@
     "releaseDate": {
       "S1": "16 december 2021"
     }
-  }
+
+  },
+  {
+        "id":117,
+        "name": "City of dreams",
+        "rating": 7.7,
+        "description": "Multiple lives intersect after an assassination attempt on Mumbai's most polarizing political figure." ,
+        "category": ["Mystery", "Crime fiction"],
+        "platform": "Hotstar",
+        "casting": {
+          "actors": [
+           
+"Priya Bapat",
+
+"Flora Saini",
+
+"Amrita Bagchi",
+
+"Siddharth"
+          ],
+          "director": ["Nagesh Kukunoor"]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Mayanagari_City_of_Dreams.jpeg",
+        "episodeCount": 20,
+        "seasons": 2,
+        "releaseDate": {
+          "S1": "3 May 2019"
+        }
+      },
    {
     "id": 100,
     "name": "The Aam Aadmi Family",
@@ -1975,4 +2003,5 @@
       "S1": "4 March 2022"
     }
   }
+
 ]
