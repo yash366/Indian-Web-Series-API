@@ -2026,6 +2026,7 @@
     "seasons": 1,
     "releaseDate": "20 May 2021"
   },
+
  {
     "id": 93,
     "name": "The Family Man",
@@ -2043,7 +2044,50 @@
         "Shahab Ali",
         "Samantha Ruth Prabhu"
       ],
-      "director": ["Raj & D.K"]
-    }
+   },   
+{
+    "id": 104,
+    "name": "Bandish Bandits",
+    "rating": 8.7,
+    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+    "category": ["Music", "Drama", "Romance"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": [
+        "Ritwik Bhowmik",
+        "Shreya Chaudhary",
+        "Naseeruddin Shah",
+        "Sheeba Chaddha",
+        "Rajesh Tailang",
+        "Kunaal Roy Kapur"
+      ],
+      "director": ["Anand Tiwari"]
+    },
+    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "4 August 2020"
+  },
+
+  {
+    "id": 104,
+    "name": "The Family Man",
+    "rating": 8.8,
+    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+    "category": ["Comedy", "Drama", "Action"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": [
+        "Manoj Bajpayee",
+        "Samantha Akkineni",
+        "Priyamani",
+        "Sharib Hashmi",
+        "Ashlesha Thakur",
+        "Vedant Sinha",
+        "Shahab Ali",
+        "Shreya Dhanwanthary"
+      ],
+      "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
+    },
 
 ]
